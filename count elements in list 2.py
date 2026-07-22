@@ -4,8 +4,8 @@
 
  # Count Occurrences of an Element in a List
 
-numbers = [1, 2, 2, 3, 4, 2]
-element = 2
+numbers = [1, 2, 3, 3, 4, 3]
+element = 3
 count = 0
 
 for num in numbers:
