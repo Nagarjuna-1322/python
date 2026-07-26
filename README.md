@@ -14,7 +14,7 @@ Python is a high-level, interpreted, and object-oriented programming language kn
 - 🖥️ Automation & Scripting
 - 🎮 Game Development
 - ☁️ Cloud Computing
-- 🔒 Cybersecurity
+
 
 This repository contains well-structured Python programs with clear examples and explanations.
 
