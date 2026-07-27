@@ -6,7 +6,7 @@ Welcome to my **Python Programming** repository! This repository contains Python
 
 ## 📖 About
 
-Python is a high-level, interpreted, and object-oriented programming language known for its simplicity and readability. It is widely used in:
+Python is a high-level, interpreted, and object-oriented programming language known for its simplicity and readability. It is widely used in :
 
 - 🌐 Web Development
 - 🤖 Artificial Intelligence & Machine Learning
