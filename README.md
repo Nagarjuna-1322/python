@@ -12,7 +12,6 @@ Python is a high-level, interpreted, and object-oriented programming language kn
 - 🤖 Artificial Intelligence & Machine Learning
 - 📊 Data Science & Analytics
 - 🖥️ Automation & Scripting
-- 🎮 Game Development
 - ☁️ Cloud Computing
 
 
