@@ -28,3 +28,5 @@ print("after removing 30:",my_list)
 removed_element = my_list.pop(1)
 print("after popping index 1 (removed element is{}):".format(removed_element),my_list)
 
+#this code helps how the elements insert and delete in to the list
+
