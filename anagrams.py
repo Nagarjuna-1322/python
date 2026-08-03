@@ -1,5 +1,7 @@
 
 
+#check the given strings anagrams
+
 
 
 str_1 = input("enter the string1")
