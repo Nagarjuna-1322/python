@@ -12,5 +12,5 @@ for i in range(0,n):
     new_value = int(input("enter the element:"))
     
     main_tuple = main_tuple + (new_value,)
-    
+    #this modify the tuplle elements and it also removes the old element and also inert the new element in the tuple
     print(main_tuple)
