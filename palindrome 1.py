@@ -1,5 +1,5 @@
   
-
+#plaindrome is nothing but the word should bve same from two sides if it is reversed
 
 
 
