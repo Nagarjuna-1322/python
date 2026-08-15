@@ -1,6 +1,6 @@
 
 
-
+#this code displays the lists in an order from small to big 
 
 def find_largest_and_smallest(input_list):
     max = 0
