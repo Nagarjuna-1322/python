@@ -2,6 +2,8 @@
 
   #anagram using two for loops 
   
+# anagrams
+
 
 str1 = input("enter the string1")
 str2 = input("enter the string2")
