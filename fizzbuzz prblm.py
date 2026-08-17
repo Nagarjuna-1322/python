@@ -1,5 +1,10 @@
 
 
+
+
+# it checks the given number is multiple of 3 and 5
+
+
 def fizzBuzz(n):
     # Loop through integers from 1 to n (inclusive)
     for i in range(1, n + 1):
