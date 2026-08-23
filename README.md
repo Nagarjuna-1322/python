@@ -15,7 +15,7 @@ Python is a high-level, interpreted, and object-oriented programming language kn
 - ☁️ Cloud Computing
 
 
-This repository contains well-structured Python programs with clear examples and explanations.
+This repository contains well-structured Python programs with clear examples and explanations..................
 
 ---
 
