@@ -1,7 +1,7 @@
 
 
 
-#Find the Index of an Element in a List
+#    Find the Index of an Element in a List
 
 # List
 numbers = [10, 20, 30, 40]
