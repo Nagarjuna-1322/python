@@ -140,8 +140,8 @@ python hello.py
 
 ## 📚 Resources
 
-- Python Official Documentation: https://docs.python.org/3/
-- W3Schools Python Tutorial: https://www.w3schools.com/python/
+- Python Official Documentation:  https://docs.python.org/3/
+- W3Schools Python Tutorial:  https://www.w3schools.com/python/
 - GeeksforGeeks Python: https://www.geeksforgeeks.org/python-programming-language/
 
 ---
