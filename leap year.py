@@ -13,3 +13,5 @@ if(year%4==0):
     
 else:
     print("Not a leap year")
+
+# it gives the output of the exact leap year
