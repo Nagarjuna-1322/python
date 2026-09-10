@@ -17,51 +17,7 @@ Python is a high-level, interpreted, and object-oriented programming language kn
 
 This repository contains well-structured Python programs with clear examples and explanations..................
 
----
 
-## 📂 Repository Structure
-
-```
-Python/
-│
-├── Basics/
-│   ├── Variables.py
-│   ├── DataTypes.py
-│   ├── Operators.py
-│   └── InputOutput.py
-│
-├── Control Statements/
-│   ├── IfElse.py
-│   ├── Loops.py
-│   └── PatternPrograms.py
-│
-├── Functions/
-│   ├── Functions.py
-│   ├── Lambda.py
-│   └── Recursion.py
-│
-├── Strings/
-│
-├── Lists/
-│
-├── Tuples/
-│
-├── Dictionaries/
-│
-├── Sets/
-│
-├── File Handling/
-│
-├── Object Oriented Programming/
-│
-├── Exception Handling/
-│
-├── Modules/
-│
-└── Projects/
-```
-
----
 
 ## 🚀 Topics Covered
 
