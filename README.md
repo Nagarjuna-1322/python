@@ -11,11 +11,10 @@ Python is a high-level, interpreted, and object-oriented programming language kn
 - 🌐 Web Development
 - 🤖 Artificial Intelligence & Machine Learning
 - 📊 Data Science & Analytics
-- 🖥️ Automation & Scripting
 - ☁️ Cloud Computing
 
 
-This repository contains well-structured Python programs with clear examples and explanations..................
+This repository contains well-structured Python programs with clear examples and explanations.
 
 
 
