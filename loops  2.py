@@ -1,5 +1,13 @@
 
 
+
+
+
+
+#prints the string values
+
+
+
 n = int(input("enter the value::"))
 str_1 = input("enter the string::")
 
