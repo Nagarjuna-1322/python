@@ -12,4 +12,6 @@ if (a%5==0):
 else:
     
     print (" the number is not divisible by 5")
-    
+
+
+#prints the output
