@@ -1,5 +1,7 @@
 
 
+#prints the factorial numbers
+
 n=5
 sum=1
 for i in range(1,n+1):
