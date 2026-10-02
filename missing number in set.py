@@ -19,3 +19,5 @@ def find_miss (set_1):
     
     find_miss(set_1)
     
+
+#prints the output
