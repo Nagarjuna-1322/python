@@ -8,3 +8,5 @@ def reverse_list(input_list):
 input_list = [1,2,3,4]
 
 print(reverse_list(input_list))
+
+#prints the output
