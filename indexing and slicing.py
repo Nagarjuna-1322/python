@@ -1,6 +1,9 @@
 
 
 
+#indexing amd slicing
+
+
 t = (10, 20, 30, 40, 50)
 
 # Print the third element
