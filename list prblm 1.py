@@ -13,4 +13,4 @@ def reverse_list(input_list):
     
     print(reverse_list(input_list))
     
-    
+    #prints the output
