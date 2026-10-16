@@ -13,3 +13,6 @@ while n > 0:
     n //= 10
 
 print("Reversed number:", rev)
+
+
+#prints the revrese numbers as given the input
