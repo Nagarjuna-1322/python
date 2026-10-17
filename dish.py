@@ -1,6 +1,7 @@
 
 
 
+#prints  the exact output
 indian = ["samosa","dall","naan"]
 chinese = ["egg role", "pot sticker","fried rice"]
 
