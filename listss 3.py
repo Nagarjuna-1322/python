@@ -1,5 +1,8 @@
 
 
+
+#prints the numbers in the list
+
 mylist = []
 n=10
 
