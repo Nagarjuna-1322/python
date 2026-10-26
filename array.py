@@ -1,7 +1,7 @@
 
 
 
-# print list of array
+# print list of array to get the output
 
 
 import numbers
