@@ -1,5 +1,7 @@
 
 
+#prints the total distance 
+
 nyc_bal = 188
 bal_pitt = 247
 
