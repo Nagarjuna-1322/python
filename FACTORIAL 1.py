@@ -1,6 +1,6 @@
 
 
-#prints the output of the factorial
+#prints the output of the factorial  
 
 
 
