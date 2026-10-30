@@ -1,5 +1,7 @@
 
 
+#prints the output of the factorial
+
 
 
 n = int(input("Enter a number: "))
