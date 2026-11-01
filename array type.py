@@ -1,4 +1,4 @@
-
+#prints the type of array
 
 import numbers
 
