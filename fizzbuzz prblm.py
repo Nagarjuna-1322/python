@@ -2,7 +2,8 @@
 
 
 
-# it checks the given number is multiple of 3 and 5
+# it checks the given number is multiple of 3 and 5 of the multiplication
+
 
 
 def fizzBuzz(n):
