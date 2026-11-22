@@ -10,6 +10,8 @@ print(type(nani))
 
 #age
 
-age = 80
+age = 160
 
 print(type(age))
+
+
