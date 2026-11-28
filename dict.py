@@ -1,6 +1,9 @@
+#dictionaries 
 
 
+#dictionary stores the different types of data types 
 
-data = {34,52,56,25,36}
+
+data = {"nani", "36", "9.5"}
 
 print("data[2]")
